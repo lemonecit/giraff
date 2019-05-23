@@ -435,6 +435,7 @@ cursor:pointer;
 
 
 .slogan {
+	opacity:0.9;
       grid-area: slogan;
   background-color:white;
   width:100%;
