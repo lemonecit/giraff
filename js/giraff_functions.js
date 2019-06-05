@@ -46,7 +46,6 @@ sloaga.classList.add('enable_menuSlide');
 
 }
 
-
 function closeMenua() {
   document.getElementsByClassName('menu-btn')[0].style.visibility = 'visible';
   videoBG.classList.remove('disableVideoBG');
